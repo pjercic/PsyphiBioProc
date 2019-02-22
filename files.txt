@@ -1,0 +1,3 @@
+Solution	Holding a VS solution for both prog and tests
+Solution	Holding a linux make for both prog and tests
+Doxygen		Configuration for generating documuntation
